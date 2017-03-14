@@ -1,0 +1,12 @@
+Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old. Doing this will help you quickly discover any holes in your understanding. Ask your questions on Slack.
+
+Variables
+//Variables are placeholders used to store information.
+Strings
+//Strings are bits of information (usually letters) that can be printed.
+Functions (arguments, return)
+//Functions are bits of code that turn inputs (arguments) into desired results, thereby returning //outputs.
+if statements
+//If statements are conditional. If the target inputs meet certain criterion, the designated //actions will apply. Otherwise, they won't.
+Boolean values (true, false)
+//Boolean values are variables that can be either true or false, usually the result of a //comparison. 
